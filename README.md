@@ -1,1 +1,0 @@
-# boramlog.github.io
