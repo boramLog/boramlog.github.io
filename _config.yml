@@ -12,46 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-<<<<<<< HEAD
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-=======
-<<<<<<< HEAD
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-=======
-<<<<<<< HEAD
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-=======
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
->>>>>>> 406fcf3 (blog)
->>>>>>> 2039c46 (boramlog)
->>>>>>> 9e54d3d (boramlog)
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-<<<<<<< HEAD
-name                     : "our Name"
-description              : "An amazing website."
-url                      : "https://boramlog.github.io"
-=======
-<<<<<<< HEAD
-name                     : "our Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
-<<<<<<< HEAD
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : "https://rambolog.github.io"
-=======
-name                     : "our Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
->>>>>>> 406fcf3 (blog)
->>>>>>> 2039c46 (boramlog)
->>>>>>> 9e54d3d (boramlog)
+url                      : "https://boramlog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
