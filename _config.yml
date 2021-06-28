@@ -34,7 +34,7 @@ subtitle                 : # site tagline that appears below site title in masth
 <<<<<<< HEAD
 name                     : "our Name"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://boramlog.github.io"
 =======
 <<<<<<< HEAD
 name                     : "our Name"
