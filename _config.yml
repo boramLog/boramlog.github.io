@@ -44,7 +44,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 <<<<<<< HEAD
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : "https://rambolog.github.io"
+url                      : "https://boramlog.github.io"
 =======
 name                     : "our Name"
 description              : "An amazing website."
